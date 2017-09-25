@@ -1,0 +1,11 @@
+﻿  ModulePhysics.cpp
+ModulePhysics.cpp(77): warning C4244: 'argument': conversion from 'int' to 'float32', possible loss of data
+ModulePhysics.cpp(112): warning C4244: 'argument': conversion from 'float32' to 'int', possible loss of data
+J:\Visual Studio\VC\include\limits(210): warning C4577: 'noexcept' used with no exception handling mode specified; termination on exception is not guaranteed. Specify /EHsc
+  Generating code
+  2 of 143 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SDL Game.vcxproj -> C:\Users\Guillermo\Desktop\Physics2_class1_handout\Release\Physics 2 Class 1 Handout.exe
+  SDL Game.vcxproj -> C:\Users\Guillermo\Desktop\Physics2_class1_handout\Release\Physics 2 Class 1 Handout.pdb (Full PDB)
