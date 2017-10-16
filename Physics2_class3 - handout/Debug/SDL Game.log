@@ -1,0 +1,25 @@
+﻿  ModuleWindow.cpp
+  ModuleTextures.cpp
+  ModuleSceneIntro.cpp
+c:\users\guillermo\desktop\physics2_class1_handout\physics_2d_motor\physics2_class3 - handout\modulesceneintro.cpp(158): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\guillermo\desktop\physics2_class1_handout\physics_2d_motor\physics2_class3 - handout\modulesceneintro.cpp(160): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+c:\users\guillermo\desktop\physics2_class1_handout\physics_2d_motor\physics2_class3 - handout\modulesceneintro.cpp(162): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\guillermo\desktop\physics2_class1_handout\physics_2d_motor\physics2_class3 - handout\modulesceneintro.cpp(165): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\limits(211): warning C4577: si se usa 'noexcept' sin ningún modo de control de excepciones especificado, la finalización de la excepción no está garantizada. Especifique /EHsc
+  ModuleRender.cpp
+  ModulePlayer.cpp
+  ModulePhysics.cpp
+c:\users\guillermo\desktop\physics2_class1_handout\physics_2d_motor\physics2_class3 - handout\modulephysics.cpp(36): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\guillermo\desktop\physics2_class1_handout\physics_2d_motor\physics2_class3 - handout\modulephysics.cpp(113): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\guillermo\desktop\physics2_class1_handout\physics_2d_motor\physics2_class3 - handout\modulephysics.cpp(114): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+c:\users\guillermo\desktop\physics2_class1_handout\physics_2d_motor\physics2_class3 - handout\modulephysics.cpp(130): warning C4018: '<': no coinciden signed/unsigned
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\cmath(113): warning C4577: si se usa 'noexcept' sin ningún modo de control de excepciones especificado, la finalización de la excepción no está garantizada. Especifique /EHsc
+  ModuleInput.cpp
+  ModuleAudio.cpp
+  Main.cpp
+  log.cpp
+  Application.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\include\limits(211): warning C4577: si se usa 'noexcept' sin ningún modo de control de excepciones especificado, la finalización de la excepción no está garantizada. Especifique /EHsc
+  Generando código...
+  SDL Game.vcxproj -> C:\Users\Guillermo\Desktop\Physics2_class1_handout\Physics_2D_Motor\Physics2_class3 - handout\Debug\2D Physics - class 3.exe
+  SDL Game.vcxproj -> C:\Users\Guillermo\Desktop\Physics2_class1_handout\Physics_2D_Motor\Physics2_class3 - handout\Debug\2D Physics - class 3.pdb (Partial PDB)
